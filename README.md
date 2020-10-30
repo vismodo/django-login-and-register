@@ -1,5 +1,5 @@
 # Django Login & Register
-This a Django project that allows users to login to your website and allows them to register for an account as well! The HTML templates use the Bootstrap login template and the user data is stored in a JSON file. You can use this in your website!
+This a Django project that allows users to login to your website and allows them to register for an account as well! The HTML templates use the [Bootstrap login template](https://getbootstrap.com/docs/4.0/examples/sign-in/) and the user data is stored in a JSON file. You can use this in your website!
 
 ## Prerequisites:
 * [Python](https://www.python.org/) Installed (I used 3.8.9)
