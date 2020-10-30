@@ -41,7 +41,19 @@ Visit the [login page](http://localhost:8000/login/) and try to login! The prelo
 
 ## Register For An Account
 
-Visit the [registration page](http://localhost:8000/register/) and create an account! Using an email that is already in use with give you a [Bootstrap Alert](https://getbootstrap.com/docs/4.0/components/alerts/). The `Name` field is not used anywhere by the server. It is up to you to use that! It also returns an alert if the passwords do not match.
+Visit the [registration page](http://localhost:8000/register/) and create an account!
+
+![register](https://github.com/vismodo/django-login-and-register/blob/master/pic1.png?raw=true)
+
+Using an email that is already in use will give you a [Bootstrap Alert](https://getbootstrap.com/docs/4.0/components/alerts/).
+
+![register2](https://github.com/vismodo/django-login-and-register/blob/master/pic2.png?raw=true)
+
+It also returns an alert if the passwords do not match.
+
+![register3](https://github.com/vismodo/django-login-and-register/blob/master/pic3.png?raw=true)
+
+The `Name` field is not used anywhere by the server. It is up to you to use that!
 
 ## The JSON File
 
