@@ -47,11 +47,11 @@ Visit the [registration page](http://localhost:8000/register/) and create an acc
 
 Using an email that is already in use will give you a [Bootstrap Alert](https://getbootstrap.com/docs/4.0/components/alerts/).
 
-![register2](https://github.com/vismodo/django-login-and-register/blob/master/pic2.png?raw=true)
+![register3](https://github.com/vismodo/django-login-and-register/blob/master/pic3.png?raw=true)
 
 It also returns an alert if the passwords do not match.
 
-![register3](https://github.com/vismodo/django-login-and-register/blob/master/pic3.png?raw=true)
+![register2](https://github.com/vismodo/django-login-and-register/blob/master/pic2.png?raw=true)
 
 The `Name` field is not used anywhere by the server. It is up to you to use that!
 
