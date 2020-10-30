@@ -41,7 +41,7 @@ Visit the [login page](http://localhost:8000/login/) and try to login! The prelo
 
 ## Register For An Account
 
-Visit the [registration oage](http://localhost:8000/register/) and create an account! Using an email that is already in use with give you a [Bootstrap Alert](https://getbootstrap.com/docs/4.0/components/alerts/). The `Name` field is not used anywhere by the server. It is up to you to use that!.
+Visit the [registration page](http://localhost:8000/register/) and create an account! Using an email that is already in use with give you a [Bootstrap Alert](https://getbootstrap.com/docs/4.0/components/alerts/). The `Name` field is not used anywhere by the server. It is up to you to use that! It also returns an alert if the passwords do not match.
 
 ## The JSON File
 
